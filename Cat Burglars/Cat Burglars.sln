@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat Burglars.CSharp.Plugins", "Cat Burglars.CSharp.Plugins.csproj", "{9BCDDD24-233E-A0A5-88FD-4265287E19D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat Burglars.CSharp", "Cat Burglars.CSharp.csproj", "{A9332C17-BF5C-6640-CB0E-2EC0124C5ADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cat Burglars.CSharp.Editor", "Cat Burglars.CSharp.Editor.csproj", "{4DC132F1-16BB-5587-A87F-8CF356B29139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCDDD24-233E-A0A5-88FD-4265287E19D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCDDD24-233E-A0A5-88FD-4265287E19D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCDDD24-233E-A0A5-88FD-4265287E19D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCDDD24-233E-A0A5-88FD-4265287E19D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9332C17-BF5C-6640-CB0E-2EC0124C5ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9332C17-BF5C-6640-CB0E-2EC0124C5ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9332C17-BF5C-6640-CB0E-2EC0124C5ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9332C17-BF5C-6640-CB0E-2EC0124C5ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC132F1-16BB-5587-A87F-8CF356B29139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC132F1-16BB-5587-A87F-8CF356B29139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC132F1-16BB-5587-A87F-8CF356B29139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC132F1-16BB-5587-A87F-8CF356B29139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
